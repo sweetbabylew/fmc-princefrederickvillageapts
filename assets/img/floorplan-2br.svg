@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="813" viewBox="0 0 1100 813" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Prince Frederick Village two-bedroom floor plan">
+<defs><style>
+    .fp{fill:#FFFFFF}
+    .w{fill:none;stroke:#2C3E2D;stroke-width:7;stroke-linecap:butt}
+    .wo{fill:none;stroke:#2C3E2D;stroke-width:10;stroke-linecap:butt}
+    .d{fill:none;stroke:#7C9880;stroke-width:4;stroke-dasharray:5 6}
+    .arc{fill:none;stroke:#5E7D63;stroke-width:3}
+    .win{fill:none;stroke:#2C3E2D;stroke-width:2.5}
+    .rm{fill:#22331F;font-family:'Helvetica Neue',Arial,sans-serif;font-size:25px;font-style:italic;text-anchor:middle}
+    .cl{fill:#4A5C4D;font-family:'Helvetica Neue',Arial,sans-serif;font-size:18px;font-style:italic;text-anchor:middle}
+    .sm{fill:#4A5C4D;font-family:'Helvetica Neue',Arial,sans-serif;font-size:14px;font-style:italic;text-anchor:middle}
+  </style></defs>
+<rect class="fp" x="11" y="24" width="1063" height="769"/>
+<path class="w" d="M271,41 V237 M271,327 V783 M402,673 V798 M465,23 V217 M525,345 V380 M525,383 V801 M593,23 V217 M722,40 V75 M722,166 V505 M722,749 V801 M26,145 H43 M50,145 H235 M264,216 H323 M462,216 H480 M582,216 H605 M608,216 H692 M273,344 H442 M527,344 H713"/>
+<path class="d" d="M271,17 V54 M271,140 V158 M271,188 V239 M271,345 V369 M271,602 V630 M271,663 V693 M271,780 V799 M402,178 V200 M402,559 V585 M465,17 V36 M465,351 V367 M525,45 V82 M525,182 V200 M525,225 V239 M525,246 V293 M525,395 V431 M525,786 V802 M593,17 V37 M593,186 V217 M722,17 V37 M22,145 H49 M234,145 H273 M269,216 H325 M578,216 H606 M670,216 H720"/>
+<path class="win" d="M1069,53 V170 M1074,53 V170 M1079,53 V170 M1067,53 H1081 M1067,170 H1081"/>
+<path class="win" d="M90,788 H191 M90,793 H191 M90,798 H191 M90,786 V800 M191,786 V800"/>
+<path class="win" d="M406,788 H519 M406,793 H519 M406,798 H519 M406,786 V800 M519,786 V800"/>
+<path class="win" d="M751,788 H874 M751,793 H874 M751,798 H874 M751,786 V800 M874,786 V800"/>
+<path class="wo" d="M11,24 H1074 V53 M1074,170 V793 H874 M751,793 H519 M406,793 H191 M90,793 H11 V24"/>
+<text class="cl" x="165" y="95">Closet</text>
+<text class="cl" x="360" y="110">Bathroom</text>
+<text class="cl" x="520" y="110">Closet</text>
+<text class="cl" x="650" y="110">Closet</text>
+<text class="rm" x="890" y="320">Living Room</text>
+<text class="rm" x="155" y="470">Bedroom</text>
+<text class="rm" x="390" y="570">Bedroom</text>
+<text class="cl" x="515" y="290">Hall</text>
+<text class="rm" x="630" y="590">Kitchen</text>
+<text class="sm" x="320" y="700">Closet</text>
+</svg>

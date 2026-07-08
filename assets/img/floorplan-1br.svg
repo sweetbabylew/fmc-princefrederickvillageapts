@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="943" viewBox="0 0 1100 943" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Prince Frederick Village one-bedroom floor plan">
+<defs><style>
+    .fp{fill:#FFFFFF}
+    .w{fill:none;stroke:#2C3E2D;stroke-width:7;stroke-linecap:butt}
+    .wo{fill:none;stroke:#2C3E2D;stroke-width:10;stroke-linecap:butt}
+    .d{fill:none;stroke:#7C9880;stroke-width:4;stroke-dasharray:5 6}
+    .arc{fill:none;stroke:#5E7D63;stroke-width:3}
+    .win{fill:none;stroke:#2C3E2D;stroke-width:2.5}
+    .rm{fill:#22331F;font-family:'Helvetica Neue',Arial,sans-serif;font-size:25px;font-style:italic;text-anchor:middle}
+    .cl{fill:#4A5C4D;font-family:'Helvetica Neue',Arial,sans-serif;font-size:18px;font-style:italic;text-anchor:middle}
+    .sm{fill:#4A5C4D;font-family:'Helvetica Neue',Arial,sans-serif;font-size:14px;font-style:italic;text-anchor:middle}
+  </style></defs>
+<rect class="fp" x="19" y="24" width="1055" height="896"/>
+<path class="w" d="M268,29 V504 M268,620 V655 M268,658 V926 M486,675 V695 M486,705 V906 M656,668 V755 M656,758 V908 M656,912 V926 M13,36 H79 M212,36 H254 M267,36 H280 M284,36 H1083 M13,448 H26 M267,448 H285 M289,448 H606 M13,461 H26 M267,461 H280 M400,461 H505 M536,461 H606 M31,670 H93 M202,670 H264 M267,670 H370 M618,670 H645 M13,715 H26 M267,715 H280 M1010,715 H1055 M13,749 H26 M267,749 H280 M645,749 H682 M789,749 H1076"/>
+<path class="d" d="M268,23 V38 M268,438 V452 M268,678 V721 M268,845 V891 M486,220 V251 M486,271 V303 M486,323 V338 M486,502 V516 M486,653 V681 M486,906 V922 M656,650 V671 M656,906 V922 M23,36 H40 M256,36 H270 M277,36 H309 M1050,36 H1074 M277,461 H321 M17,670 H45 M251,670 H268 M478,670 H497 M613,670 H633 M360,715 H386 M1051,715 H1066 M1078,715 H1092 M138,749 H155 M384,749 H399"/>
+<path class="arc" d="M1074,190 H944 M944,190 A130,130 0 0 0 1074,320"/>
+<path class="arc" d="M1074,585 H939 M939,585 A135,135 0 0 0 1074,720"/>
+<path class="win" d="M79,19 H214 M79,24 H214 M79,29 H214 M79,17 V31 M214,17 V31"/>
+<path class="wo" d="M19,24 H79 M214,24 H1074 V190 M1074,320 V585 M1074,720 V920 H19 V24"/>
+<text class="rm" x="180" y="340">Bedroom</text>
+<text class="rm" x="470" y="300">Kitchen</text>
+<text class="rm" x="880" y="320">Living Room</text>
+<text class="cl" x="470" y="570">Hallway</text>
+<text class="sm" x="150" y="810">Closet</text>
+<text class="cl" x="360" y="790">Bathroom</text>
+<text class="sm" x="590" y="800">HVAC</text>
+<text class="sm" x="810" y="790">Closet</text>
+</svg>
